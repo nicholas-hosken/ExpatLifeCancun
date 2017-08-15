@@ -59,7 +59,7 @@ _________________________________________________________ -->
         <div class="container">
           <div class="row">
             <div class="col-xs-5 contact">
-              <p class="hidden-sm hidden-xs">To submit relevant info or corrections please contact us at #######@#####</p>
+              <p class="hidden-sm hidden-xs">Have an experiance you would like to share? Found something which needs updating? Send us an email at #######@#####</p>
 							<!--
               <p class="hidden-md hidden-lg">
                 <a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>  
@@ -148,62 +148,33 @@ _________________________________________________________ -->
                       <div class="yamm-content">
                         <div class="row">
                           <div class="col-sm-6">
-                            <img src="../img/template-easy-customize.png" class="img-responsive hidden-xs" alt="">
+                            <img src="../img/domestic.png" class="img-responsive hidden-xs" alt="">
                           </div>
                           <div class="col-sm-3">
                             <h5>Kids</h5>
                               <ul>
                                 <li><a href="#">Nannies</a></li>
-                                <li><a href="#">Pre-Schools</a></li>
-                                <li><a href="#">Primary Schools</a></li>
-                                <li><a href="#">High Schools</a></li>
                                 <li><a href="#">Home Schooling</a></li>
+                                <li><a href="#">Kindergarten</a></li>
+                                <li><a href="#">Elementary</a></li>
+                                <li><a href="#">Junior High</a></li>
+                                <li><a href="#">Senior High</a></li>
                               </ul>
                           </div>
                           <div class="col-sm-3">
-                            <h5>Domestic Help</h5>
+                            <h5>Help Around the House</h5>
                             <ul>
-                              <li><a href="#">Test</a></li>
+                              <li><a href="#">Cleaners</a></li>
+                              <li><a href="#">Electricians</a></li>
+                              <li><a href="#">Painters</a></li>
+                              <li><a href="#">Plumbers</a></li>                              
                             </ul>
                           </div>
                         </div>
                       </div>
                     </li>
                   </ul>
-                </li>
-                <li class="dropdown use-yamm yamm-fw">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <div class="yamm-content">
-                        <div class="row">
-                          <div class="col-sm-6">
-                            <img src="../img/template-homepage.png" class="img-responsive hidden-xs" alt="">
-                          </div>
-                          <div class="col-sm-3">
-                            <h5>Portfolio</h5>
-                              <ul>
-                                <li><a href="../portfolio-2.html">2 columns</a></li>
-                              </ul>
-                          </div>
-                          <div class="col-sm-3">
-                            <h5>About</h5>
-                            <ul>
-                              <li><a href="../about.html">About us</a></li>
-                              <li><a href="../team.html">Our team</a></li>
-                              <li><a href="../team-member.html">Team member</a></li>
-                              <li><a href="../services.html">Services</a></li>
-                            </ul>
-                            <h5>Marketing</h5>
-                            <ul>
-                              <li><a href="../packages.html">Packages</a></li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </li>
-                  </ul>
-                </li>
+                </li>               
                 <!-- ========== FULL WIDTH MEGAMENU ================== -->
                 <li class="dropdown use-yamm yamm-fw">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="200">All Pages 
@@ -309,7 +280,7 @@ _________________________________________________________ -->
 	          <div class="modal-content">
   	          <div class="modal-header">
     	          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-      	          <h4 class="modal-title" id="Login">Customer login</h4>
+      	          <h4 class="modal-title" id="Login">Expat login</h4>
               </div>
               <div class="modal-body">
         	      <form action="../customer-orders.html" method="post">
@@ -451,9 +422,9 @@ _________________________________________________________ -->
               <div class="col-md-12">
                 <img src="../img/cthulhulogo3.png">
                 <h3 class="text-uppercase">Same Planet, Different World</h3>
-                <p class="lead">We have prepared for you more than 40 different HTML pages, including 5 variations of homepage.</p>
+                <p class="lead">Come join us as we explore the depths of our beautiful Caribbean Ocean.</p>
                 <p class="text-center">
-                  <a href="../index2.html" class="btn btn-template-transparent-black btn-lg">Check other homepage</a>
+                  <a href="http://cthulhudivers.com/" class="btn btn-template-transparent-black btn-lg" target="_blank">Dive In Today</a>
                 </p>
               </div>
             </div>
@@ -478,7 +449,7 @@ _________________________________________________________ -->
                 	<div class="box-image-text blog">
                   	<div class="top">
                     	<div class="image">
-                      	<img src="../img/portfolio-4.jpg" alt="" class="img-responsive">
+                      	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
                       </div>
                       <div class="bg"></div>
                       <div class="text">
@@ -488,9 +459,9 @@ _________________________________________________________ -->
                       </div>
                     </div>
                     <div class="content">
-                    	<h4><a href="#">Fashion now</a></h4>
-                      <p class="author-category">By <a href="#">John Snow</a> in <a href="#">Webdesign</a></p>
-                      <p class="intro">Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring.</p>
+                    	<h4><a href="#">The Event</a></h4>
+                      <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
+                      <p class="intro">Be there or be cuadrado.</p>
 	                    <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
                     </div>
                   </div>
@@ -502,7 +473,7 @@ _________________________________________________________ -->
                 	<div class="box-image-text blog">
                   	<div class="top">
                     	<div class="image">
-                      	<img src="../img/portfolio-4.jpg" alt="" class="img-responsive">
+                      	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
                       </div>
                       <div class="bg"></div>
                       <div class="text">
@@ -512,33 +483,9 @@ _________________________________________________________ -->
                       </div>
                     </div>
                     <div class="content">
-                    	<h4><a href="#">Fashion now</a></h4>
-                      <p class="author-category">By <a href="#">John Snow</a> in <a href="#">Webdesign</a></p>
-                      <p class="intro">Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring.</p>
-	                    <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- /.box-image-text -->
-                
-              	<div class="col-md-3 col-sm-6">
-                	<div class="box-image-text blog">
-                  	<div class="top">
-                    	<div class="image">
-                      	<img src="../img/portfolio-4.jpg" alt="" class="img-responsive">
-                      </div>
-                      <div class="bg"></div>
-                      <div class="text">
-                      	<p class="buttons">
-                        	<a href="#" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
-                        </p>
-                      </div>
-                    </div>
-                    <div class="content">
-                    	<h4><a href="#">Fashion now</a></h4>
-                      <p class="author-category">By <a href="#">John Snow</a> in <a href="#">Webdesign</a></p>
-                      <p class="intro">Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring.</p>
+                    	<h4><a href="#">The Event</a></h4>
+                      <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
+                      <p class="intro">Be there or be cuadrado.</p>
 	                    <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
                     </div>
                   </div>
@@ -550,7 +497,7 @@ _________________________________________________________ -->
                 	<div class="box-image-text blog">
                   	<div class="top">
                     	<div class="image">
-                      	<img src="../img/portfolio-4.jpg" alt="" class="img-responsive">
+                      	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
                       </div>
                       <div class="bg"></div>
                       <div class="text">
@@ -560,9 +507,33 @@ _________________________________________________________ -->
                       </div>
                     </div>
                     <div class="content">
-                    	<h4><a href="#">Fashion now</a></h4>
-                      <p class="author-category">By <a href="#">John Snow</a> in <a href="#">Webdesign</a></p>
-                      <p class="intro">Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring.</p>
+                    	<h4><a href="#">The Event</a></h4>
+                      <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
+                      <p class="intro">Be there or be cuadrado.</p>
+	                    <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- /.box-image-text -->
+                
+              	<div class="col-md-3 col-sm-6">
+                	<div class="box-image-text blog">
+                  	<div class="top">
+                    	<div class="image">
+                      	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
+                      </div>
+                      <div class="bg"></div>
+                      <div class="text">
+                      	<p class="buttons">
+                        	<a href="#" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
+                        </p>
+                      </div>
+                    </div>
+                    <div class="content">
+                    	<h4><a href="#">The Event</a></h4>
+                      <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
+                      <p class="intro">Be there or be cuadrado.</p>
 	                    <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
                     </div>
                   </div>
@@ -597,10 +568,10 @@ _________________________________________________________ -->
 
               <ul class="owl-carousel customers">
               	<li class="item">
-                	<img src="../img/cthulhulogo3.png" alt="Cthulhu Divers" class="img-responsive">
+                	<img src="../img/customer-1.png" alt="" class="img-responsive">
                 </li>
                 <li class="item">
-                	<img src="../img/customer-2.png" alt="" class="img-responsive">
+                	<img src="../img/charlamex01.png" alt="Charlamex" class="img-responsive">
                 </li>
                 <li class="item">
                 	<img src="../img/customer-3.png" alt="" class="img-responsive">
@@ -612,7 +583,7 @@ _________________________________________________________ -->
                 	<img src="../img/customer-5.png" alt="" class="img-responsive">
                 </li>
                 <li class="item">
-                	<img src="../img/customer-6.png" alt="" class="img-responsive">
+                	<img src="../img/apple-touch-icon-152x152.png" alt="" class="img-responsive">
                 </li>
               </ul>
               
@@ -794,8 +765,9 @@ _________________________________________________________ -->
         <div id="copyright">
             <div class="container">
                 <div class="col-md-12">
-                    <p class="pull-left">&copy; 2015. Your company / name goes here</p>
-                    <p class="pull-right">Template by <a href="https://bootstrapious.com">Bootstrapious</a> & <a href="https://remoteplease.com">Remote Please</a>
+                    <p class="pull-left">&copy; 2017. Expat Life: Cancun</p>
+                    <p class="pull-right">Template by <a href="https://bootstrapious.com" target="_blank">Bootstrapious</a> & 
+                    	<a href="https://remoteplease.com" target="_blank">Remote Please</a>
                          <!-- Not removing these links is part of the license conditions of the template. Thanks for understanding :) If you want to use the template without the attribution links, you can do so after supporting further themes development at https://bootstrapious.com/donate  -->
                     </p>
 
