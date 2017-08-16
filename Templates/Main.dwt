@@ -177,7 +177,7 @@ _________________________________________________________ -->
                 </li>               
                 <!-- ========== FULL WIDTH MEGAMENU ================== -->
                 <li class="dropdown use-yamm yamm-fw">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="200">All Pages 
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="200">Expats
                     <b class="caret"></b>
                   </a>
                   <ul class="dropdown-menu">
@@ -188,18 +188,6 @@ _________________________________________________________ -->
                             <h5>Current Events</h5>
                               <ul>
                                 <li><a href="../index.html">Option 1: Default Page</a></li>
-                              </ul>
-                            <h5>Getting Here</h5>
-                              <ul>
-                                <li><a href="#">Visa options</a></li>
-                                <li><a href="#">Cleaners</a></li>                              
-                                <li><a href="#">Emergency Numbers</a></li>
-                              </ul>
-                            <h5>Finding Work</h5>
-                              <ul>
-                                <li><a href="#">English Speakers</a></li>
-                                <li><a href="#">English & Spanish Speakers</a></li>
-                                <li><a href="#">Other</a></li>
                               </ul>
                           </div>
                           <div class="col-sm-3">
@@ -233,9 +221,9 @@ _________________________________________________________ -->
                               <li><a href="#">Submit a story or review</a></li>
                               <li><a href="#">Contact</a></li>
                             </ul>
-                            <h5>Blog</h5>
+                            <h5>Stuffs</h5>
                             <ul>
-                              <li><a href="../blog.html">Blog listing big</a></li>
+	                            <li><a href="#">Emergency Numbers</a></li>
                             </ul>
                           </div>
                         </div>
@@ -317,32 +305,47 @@ _________________________________________________________ -->
                       <div class="row">
                         <a href="http://www.charlamex.com/" target="_blank">
                           <div class="col-sm-7 right">
-                            <h1>Learn to speak like a local</h1>
-                            <p>Bespoke Private Spanish Classes
-                            	<br />Catering to small groups and private students.</p>
+                            <h1>Immigrating to Mexico</h1>
+                            <p>From choosing a visa to finding work
+                            	<br />Find out everything you need to know about following your dreams to Cancun</p>
                           </div>
                           <div class="col-sm-5">
-                          	<img class="img-responsive" src="../img/charlamex01.png" alt="Charlamex Logo" style="padding-top:70px">
+                          	<img class="img-responsive" src="../img/large_icon-immigrate.png" alt="Immagrate To Mexico" 
+                            style="padding-top:70px">
                           </div>
                         </a>
                       </div>
                     </div>
                     <div class="item">
                     	<div class="row">
-                        <a href="http://www.cthulhudivers.com/" target="_blank">                        
+                        <a href="#">                        
                           <div class="col-sm-5 text-center">
-                            <img class="img-responsive" src="../img/cthulhulogo6.png" alt="Cthulhu Divers Logo" style="float:right">
+                            <img class="img-responsive" src="../img/large_icon-doctor.png" alt="Find A Doctor" style="float:right">
                           </div>
                           <div class="col-sm-7">
-                            <h2>46 HTML pages full of features</h2>
+                            <h2>Find a doctor just right for you</h2>
                             <ul class="list-style-none">
-                              <li>Sliders and carousels</li>
-                              <li>4 Header variations</li>
-                              <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
-                              <li>+ 11 extra pages showing template features</li>
+                              <li>Check languages</li>
+                              <li>Check addresses</li>
+                              <li>Check reviews</li>
                             </ul>
                           </div>
 												</a>
+                      </div>
+                    </div>
+                    <div class="item">
+                      <div class="row">
+                        <a href="http://www.charlamex.com/" target="_blank">
+                          <div class="col-sm-7 right">
+                            <h1>Expand your social circle</h1>
+                            <p>Meetup with fellow expats who have 
+                            	<br />been there and done that</p>
+                          </div>
+                          <div class="col-sm-5">
+                          	<img class="img-responsive" src="../img/large_icon-drinks.png" alt="Meetup with fellow expats" 
+                            style="padding-top:70px">
+                          </div>
+                        </a>
                       </div>
                     </div>
 <!--
@@ -439,7 +442,7 @@ _________________________________________________________ -->
               	<h2>UPCOMING EVENTS</h2>
               </div>
 
-              <p class="lead">Immersing oneself in the local culture is such an important aspect for finding happiness as an expat in Mexico. However, sometimes you just need to get together with people on the same wavelength as you to share a taste of home. See below some of the upcoming expat events in the Cancun area:</p>
+              <p class="lead">Obviously embracing the local culture goes a long way to finding true happiness here in Mexico. However, every now and then, it’s a good idea to catch up with other expats if only to share experiences and maybe a small taste of home. Check out some of our upcoming events:</p>
 
                     <!-- *** UPCOMING EVENTS ***
 _________________________________________________________ -->
@@ -459,7 +462,7 @@ _________________________________________________________ -->
                       </div>
                     </div>
                     <div class="content">
-                    	<h4><a href="#">The Event</a></h4>
+                    	<h4><a href="#">This Event</a></h4>
                       <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
                       <p class="intro">Be there or be cuadrado.</p>
 	                    <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
@@ -469,6 +472,30 @@ _________________________________________________________ -->
 
                 <!-- /.box-image-text -->
 
+              	<div class="col-md-3 col-sm-6">
+                	<div class="box-image-text blog">
+                  	<div class="top">
+                    	<div class="image">
+                      	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
+                      </div>
+                      <div class="bg"></div>
+                      <div class="text">
+                      	<p class="buttons">
+                        	<a href="#" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
+                        </p>
+                      </div>
+                    </div>
+                    <div class="content">
+                    	<h4><a href="#">That Event</a></h4>
+                      <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
+                      <p class="intro">Be there or be cuadrado.</p>
+	                    <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- /.box-image-text -->
+                
               	<div class="col-md-3 col-sm-6">
                 	<div class="box-image-text blog">
                   	<div class="top">
@@ -507,31 +534,7 @@ _________________________________________________________ -->
                       </div>
                     </div>
                     <div class="content">
-                    	<h4><a href="#">The Event</a></h4>
-                      <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
-                      <p class="intro">Be there or be cuadrado.</p>
-	                    <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- /.box-image-text -->
-                
-              	<div class="col-md-3 col-sm-6">
-                	<div class="box-image-text blog">
-                  	<div class="top">
-                    	<div class="image">
-                      	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
-                      </div>
-                      <div class="bg"></div>
-                      <div class="text">
-                      	<p class="buttons">
-                        	<a href="#" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
-                        </p>
-                      </div>
-                    </div>
-                    <div class="content">
-                    	<h4><a href="#">The Event</a></h4>
+                    	<h4><a href="#">El Evento</a></h4>
                       <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
                       <p class="intro">Be there or be cuadrado.</p>
 	                    <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
@@ -567,23 +570,23 @@ _________________________________________________________ -->
               </div>
 
               <ul class="owl-carousel customers">
+                <li class="item">
+                	<img src="../img/sponser_charlamex.png" alt="Charlamex" class="img-responsive">
+                </li>
               	<li class="item">
-                	<img src="../img/customer-1.png" alt="" class="img-responsive">
+                	<img src="../img/sponser_cthulhudivers.png" alt="Cthulhu Divers" class="img-responsive">
                 </li>
                 <li class="item">
-                	<img src="../img/charlamex01.png" alt="Charlamex" class="img-responsive">
+                	<img src="../img/sponser_limelight.png" alt="LimeLight" class="img-responsive">
                 </li>
                 <li class="item">
-                	<img src="../img/customer-3.png" alt="" class="img-responsive">
+                	<img src="../img/sponser_application.png" alt="Become A Sponser" class="img-responsive">
                 </li>
                 <li class="item">
-                	<img src="../img/customer-4.png" alt="" class="img-responsive">
+                	<img src="../img/sponser_application.png" alt="Become A Sponser" class="img-responsive">
                 </li>
                 <li class="item">
-                	<img src="../img/customer-5.png" alt="" class="img-responsive">
-                </li>
-                <li class="item">
-                	<img src="../img/apple-touch-icon-152x152.png" alt="" class="img-responsive">
+                	<img src="../img/sponser_application.png" alt="Become A Sponser" class="img-responsive">
                 </li>
               </ul>
               
@@ -767,7 +770,7 @@ _________________________________________________________ -->
                 <div class="col-md-12">
                     <p class="pull-left">&copy; 2017. Expat Life: Cancun</p>
                     <p class="pull-right">Template by <a href="https://bootstrapious.com" target="_blank">Bootstrapious</a> & 
-                    	<a href="https://remoteplease.com" target="_blank">Remote Please</a>
+                    <a href="https://remoteplease.com" target="_blank">Remote Please</a>
                          <!-- Not removing these links is part of the license conditions of the template. Thanks for understanding :) If you want to use the template without the attribution links, you can do so after supporting further themes development at https://bootstrapious.com/donate  -->
                     </p>
 
