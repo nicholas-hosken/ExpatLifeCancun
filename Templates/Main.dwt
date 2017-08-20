@@ -48,9 +48,32 @@
   <link href="../css/owl.theme.css" rel="stylesheet">
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
+  <script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+  </script>
 </head>
 
-<body>
+<body onLoad="MM_preloadImages('../img/sponser_cthulhudivers2.png')">
 	<div id="all">
 	  <header>
     <!-- *** TOP ***
@@ -400,7 +423,7 @@ _________________________________________________________ -->
             <div class="container">
                 <div class="col-md-12">
 									<p>Welcome and thank you for visiting Expat Life Cancun. This website is still very much under construction but I chose to make it live in the hopes that visitors, like yourself, will be able to some offer input on what the site is still missing.</p>
-                  <p>The idea behind Expat Life Cancun  is for it to be a resource of information for potential expats who might be considering making the move to Cancun. Furthermore, and more importantly, it’s a pool of shared experiences for those of us who are already here trying to survive the day-to-day life in this 3rd world paradise. As a civilian who moved here from another 3rd world country and lived on a spousal visa for two years before getting my permanent residency card, I appreciate that my own experiences will be very different to the average expat (if there is such a thing). As such, I would be very grateful if any of you would be willing to share your own story with me which I might in include on website. Please don’t just limit it to your visa application either.</p>
+                  <p>The idea behind Expat Life Cancun  is for it to be a resource of information for potential expats who might be considering making the move to Cancun. Furthermore, and perhaps more importantly, it’s a pool of shared experiences for those of us who are already here trying to survive the day-to-day life in this 3rd world paradise. As a civilian who moved here from another 3rd world country and lived on a spousal visa for two years before getting my permanent residency card, I appreciate that my own experiences will be very different to the average expat (if there is such a thing). As such, I would be very grateful if any of you would be willing to share your own story with me which I might in include on website. Please don’t just limit it to your visa application either.</p>
                   <p>If you have any tips for finding a new school for expat children, write me an email.<br /> 
 											If you own a business here in Quintana Roo, write me an email.<br />
 											If you visited a doctor who turned out to be a quack, write me an email.<br />
@@ -423,9 +446,9 @@ _________________________________________________________ -->
           <div class="container">
             <div class="row">
               <div class="col-md-12">
-                <img src="../img/cthulhulogo3.png">
+                <img src="../img/cthulhulogo.png">
                 <h3 class="text-uppercase">Same Planet, Different World</h3>
-                <p class="lead">Come join us as we explore the depths of our beautiful Caribbean Ocean.</p>
+                <p class="lead">Come join us and explore the depths of our beautiful Caribbean Ocean.</p>
                 <p class="text-center">
                   <a href="http://cthulhudivers.com/" class="btn btn-template-transparent-black btn-lg" target="_blank">Dive In Today</a>
                 </p>
@@ -571,13 +594,19 @@ _________________________________________________________ -->
 
               <ul class="owl-carousel customers">
                 <li class="item">
-                	<img src="../img/sponser_charlamex.png" alt="Charlamex" class="img-responsive">
+                	<a href="http://www.charlamex.com/" target="_blank">
+                  	<img src="../img/sponser_charlamex.png" alt="Charlamex" class="img-responsive">
+                  </a>                 
                 </li>
               	<li class="item">
-                	<img src="../img/sponser_cthulhudivers.png" alt="Cthulhu Divers" class="img-responsive">
+                	<a href="http://cthulhudivers.com/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image28','','../img/sponser_cthulhudivers3.png',1)" target="_blank">
+                  	<img src="../img/sponser_cthulhudivers4.png" alt="Cthulhu Divers" width="89" height="105" id="Image28">
+                  </a>
                 </li>
                 <li class="item">
-                	<img src="../img/sponser_limelight.png" alt="LimeLight" class="img-responsive">
+                	<a href="../contact.html">
+	                	<img src="../img/sponser_limelight.png" alt="LimeLight" class="img-responsive">
+                  </a>
                 </li>
                 <li class="item">
                 	<img src="../img/sponser_application.png" alt="Become A Sponser" class="img-responsive">
@@ -599,14 +628,15 @@ _________________________________________________________ -->
 
         <!-- *** GET IT ***
 _________________________________________________________ -->
-
-        <div id="get-it">
-            <div class="container">
   <!-- TemplateBeginEditable name="contentB" -->
-  							<img src="../img/Limelight Web Design2.png" alt="LimeLight Web Design Logo" style="float:left" />
-                <h5 style="float:left">Do you want a professional website like this?</h5>
-                <div class="col-md-4 col-sm-12">
-                    <a href="#" class="btn btn-template-transparent-primary">Buy this template now</a>
+        <div id="get-it" class="limelight-ad">
+            <div class="container">
+  							<div class="limelight-ad">
+                  <img src="../img/Limelight.png" alt="LimeLight Web Design Logo" style="float:left" />
+                  <h5>Are you looking to create a professional website for your new business in Mexico?</h5>
+                  <div>
+                      <a href="#" class="btn btn-template-transparent-primary">Get in touch with us now</a>
+                  </div>
                 </div>
   <!-- TemplateEndEditable -->
             </div>
@@ -624,11 +654,11 @@ _________________________________________________________ -->
                 <div class="col-md-3 col-sm-6">
                     <h4>About us</h4>
 
-                    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                    <p>We hope that this little website will be a resource for both expats and people considering making the move.</p>
 
                     <hr>
 
-                    <h4>Join our monthly newsletter</h4>
+                    <h4>Join our newsletter</h4>
 
                     <form>
                         <div class="input-group">
@@ -651,7 +681,7 @@ _________________________________________________________ -->
                 <!-- /.col-md-3 -->
 
                 <div class="col-md-3 col-sm-6">
-
+<!--
                     <h4>Blog</h4>
 
                     <div class="blog-entries">
@@ -690,7 +720,7 @@ _________________________________________________________ -->
                     </div>
 
                     <hr class="hidden-md hidden-lg">
-
+-->
                 </div>
                 <!-- /.col-md-3 -->
 
@@ -707,7 +737,7 @@ _________________________________________________________ -->
                         <strong>Mexico</strong>
                     </p>
 
-                    <a href="../contact.html" class="btn btn-small btn-template-main">Go to contact page</a>
+                    <a href="../contact.html" class="btn btn-small btn-template-main btn-footer">Vist our contact page</a>
 
                     <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -723,32 +753,32 @@ _________________________________________________________ -->
                     <div class="photostream">
                         <div>
                             <a href="#">
-                                <img src="../img/detailsquare.jpg" class="img-responsive" alt="#">
+                                <img src="../img/detailsquare.jpg" class="img-responsive" alt="Expat photo">
                             </a>
                         </div>
                         <div>
                             <a href="#">
-                                <img src="../img/detailsquare2.jpg" class="img-responsive" alt="#">
+                                <img src="../img/detailsquare2.jpg" class="img-responsive" alt="Expat photo">
                             </a>
                         </div>
                         <div>
                             <a href="#">
-                                <img src="../img/detailsquare3.jpg" class="img-responsive" alt="#">
+                                <img src="../img/detailsquare3.jpg" class="img-responsive" alt="Expat photo">
                             </a>
                         </div>
                         <div>
                             <a href="#">
-                                <img src="../img/detailsquare3.jpg" class="img-responsive" alt="#">
+                                <img src="../img/detailsquare4.jpg" class="img-responsive" alt="Expat photo">
                             </a>
                         </div>
                         <div>
                             <a href="#">
-                                <img src="../img/detailsquare2.jpg" class="img-responsive" alt="#">
+                                <img src="../img/detailsquare5.jpg" class="img-responsive" alt="Expat photo">
                             </a>
                         </div>
                         <div>
                             <a href="#">
-                                <img src="../img/detailsquare.jpg" class="img-responsive" alt="#">
+                                <img src="../img/detailsquare6.jpg" class="img-responsive" alt="Expat photo">
                             </a>
                         </div>
                     </div>

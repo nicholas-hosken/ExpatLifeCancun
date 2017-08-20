@@ -7,3 +7,19 @@
   background-attachment: fixed;
   background-size: cover;
 }
+
+.limelight-ad {
+	background: url('../img/wallpaper-curl.jpg') center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.btn-footer {
+	background-color: #6aae7a;
+	color: #fff;
+}
+
+.btn-footer:hover {
+	background-color: #fff;
+	color: #6aae7a;
+}
