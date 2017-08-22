@@ -18,13 +18,13 @@
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 
   <!-- Css animations  -->
-  <link href="file:///D|/Web Development/Sites/css/animate.css" rel="stylesheet">
+  <link href="../css/animate.css" rel="stylesheet">
 
   <!-- Theme stylesheet, if possible do not edit this stylesheet -->
-  <link href="file:///D|/Web Development/Sites/css/style.green.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="../css/style.green.css" rel="stylesheet" id="theme-stylesheet">
 
   <!-- Custom stylesheet - for your changes -->
-  <link href="file:///D|/Web Development/Sites/css/custom.css" rel="stylesheet">
+  <link href="../css/custom.css" rel="stylesheet">
 
   <!-- Responsivity for older IE -->
   <!--[if lt IE 9]>
@@ -33,19 +33,19 @@
 	<![endif]-->
 
   <!-- Favicon and apple touch icons-->
-  <link rel="shortcut icon" href="file:///D|/Web Development/Sites/img/favicon.ico" type="image/x-icon" />
-  <link rel="apple-touch-icon" href="file:///D|/Web Development/Sites/img/apple-touch-icon.png" />
-  <link rel="apple-touch-icon" sizes="57x57" href="file:///D|/Web Development/Sites/img/apple-touch-icon-57x57.png" />
-  <link rel="apple-touch-icon" sizes="72x72" href="file:///D|/Web Development/Sites/img/apple-touch-icon-72x72.png" />
-  <link rel="apple-touch-icon" sizes="76x76" href="file:///D|/Web Development/Sites/img/apple-touch-icon-76x76.png" />
-  <link rel="apple-touch-icon" sizes="114x114" href="file:///D|/Web Development/Sites/img/apple-touch-icon-114x114.png" />
-  <link rel="apple-touch-icon" sizes="120x120" href="file:///D|/Web Development/Sites/img/apple-touch-icon-120x120.png" />
-  <link rel="apple-touch-icon" sizes="144x144" href="file:///D|/Web Development/Sites/img/apple-touch-icon-144x144.png" />
-  <link rel="apple-touch-icon" sizes="152x152" href="file:///D|/Web Development/Sites/img/apple-touch-icon-152x152.png" />
+  <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="../img/apple-touch-icon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="../img/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="../img/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="../img/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="../img/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="../img/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="../img/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="../img/apple-touch-icon-152x152.png" />
   <!-- owl carousel css -->
 
-  <link href="file:///D|/Web Development/Sites/css/owl.carousel.css" rel="stylesheet">
-  <link href="file:///D|/Web Development/Sites/css/owl.theme.css" rel="stylesheet">
+  <link href="../css/owl.carousel.css" rel="stylesheet">
+  <link href="../css/owl.theme.css" rel="stylesheet">
   <!-- InstanceBeginEditable name="head" -->
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
@@ -75,7 +75,7 @@ function MM_swapImage() { //v3.0
   </script>
 </head>
 
-<body onLoad="MM_preloadImages('file:///D|/Web Development/Sites/img/sponser_cthulhudivers2.png')">
+<body onLoad="MM_preloadImages('../img/sponser_cthulhudivers2.png')">
 	<div id="all">
 		<header>
     	<!-- *** TOP ***
@@ -123,9 +123,9 @@ _________________________________________________________ -->
         <div class="navbar navbar-default yamm" role="navigation" id="navbar">
           <div class="container">
             <div class="navbar-header">
-              <a class="navbar-brand home" href="file:///D|/Web Development/Sites/index.html">
-                <img src="file:///D|/Web Development/Sites/img/logo.png" alt="Expat Life Cancun Logo" class="hidden-xs hidden-sm">
-                <img src="file:///D|/Web Development/Sites/img/logo-small.png" alt="Expat Life Cancun Logo" class="visible-xs visible-sm">
+              <a class="navbar-brand home" href="../index.html">
+                <img src="../img/logo.png" alt="Expat Life Cancun Logo" class="hidden-xs hidden-sm">
+                <img src="../img/logo-small.png" alt="Expat Life Cancun Logo" class="visible-xs visible-sm">
                 <span class="sr-only">Expat Life Cancun - go to homepage</span>
               </a>
               <div class="navbar-buttons">
@@ -173,7 +173,7 @@ _________________________________________________________ -->
                       <div class="yamm-content">
                         <div class="row">
                           <div class="col-sm-6">
-                            <img src="file:///D|/Web Development/Sites/img/domestic.png" class="img-responsive hidden-xs" alt="">
+                            <img src="../img/domestic.png" class="img-responsive hidden-xs" alt="">
                           </div>
                           <div class="col-sm-3">
                             <h5>Kids</h5>
@@ -212,7 +212,7 @@ _________________________________________________________ -->
                           <div class="col-sm-3">
                             <h5>Current Events</h5>
                             <ul>
-                              <li><a href="file:///D|/Web Development/Sites/index.html">Option 1: Default Page</a></li>
+                              <li><a href="../index.html">Option 1: Default Page</a></li>
                             </ul>
                           </div>
                           <div class="col-sm-3">
@@ -237,7 +237,7 @@ _________________________________________________________ -->
                             </ul>
                             <h5>Everything Medical</h5>
                             <ul>
-                              <li><a href="file:///D|/Web Development/Sites/em-doctors.html">Doctors</a></li>
+                              <li><a href="../em-doctors.html">Doctors</a></li>
                             </ul>
                           </div>
                           <div class="col-sm-3">
@@ -282,7 +282,7 @@ _________________________________________________________ -->
                 <li class="dropdown">
                   <a href="javascript: void(0)" class="dropdown-toggle" data-toggle="dropdown">Contact<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="file:///D|/Web Development/Sites/contact.html">Contact option 1</a></li>
+                    <li><a href="../contact.html">Contact option 1</a></li>
                   </ul>
                 </li>
               </ul>
@@ -340,25 +340,25 @@ _________________________________________________________ -->
             <div class="row services">
             	<div class="col-md-4">
             	  <div class="box-simple">
-              	 	<a href="../em-dentists.html">
-                	  <img src="../img/icon-dentist.png" alt="##########" />
-                    <h3>Dentists</h3>
+              	 	<a href="../##########">
+                  	<img src=".##########" alt="##########" />
+                    <h3>##########</h3>
                   </a>
                 </div>
               </div>
               <div class="col-md-4">
               	<div class="box-simple">
-                	<a href="../em-endocrinologists.html">
-                  	<img src="../img/icon-endocrinologist.png" alt="##########" />
-                    <h3>Endocrinologists</h3>
+                	<a href="../##########">
+                  	<img src=".##########" alt="##########" />
+                    <h3>##########</h3>
                   </a>
                 </div>
               </div>
               <div class="col-md-4">
               	<div class="box-simple">
-                	<a href="../em-obgyn.html">
-                  	<img src="../img/icon-obgyn.png" alt="##########" />
-                   	<h3>obstetricians and gynecologists</h3>
+              	 	<a href="../##########">
+                  	<img src=".##########" alt="##########" />
+                    <h3>##########</h3>
                   </a>
                 </div>
               </div>
@@ -367,18 +367,26 @@ _________________________________________________________ -->
             <div class="row services">
             	<div class="col-md-4">
                 <div class="box-simple">
-                 	<a href="../em-endocrinologists.html">
-              		  <img src="../img/icon-pediatrician.png" alt="##########" />
-                  	<h3>Pediatricians</h3>
+              	 	<a href="../##########">
+                  	<img src=".##########" alt="##########" />
+                    <h3>##########</h3>
                   </a>
                 </div>
               </div>
               <div class="col-md-4">
               	<div class="box-simple">
+              	 	<a href="../##########">
+                  	<img src=".##########" alt="##########" />
+                    <h3>##########</h3>
+                  </a>
                 </div>
               </div>
               <div class="col-md-4">
 	              <div class="box-simple">
+              	 	<a href="../##########">
+                  	<img src=".##########" alt="##########" />
+                    <h3>##########</h3>
+                  </a>
 	              </div>
               </div>
             </div>
@@ -519,7 +527,7 @@ _________________________________________________________ -->
         	<strong>Mexico</strong>
         </p>
 
-        <a href="file:///D|/Web Development/Sites/contact.html" class="btn btn-small btn-template-main btn-footer">Vist our contact page</a>
+        <a href="../contact.html" class="btn btn-small btn-template-main btn-footer">Vist our contact page</a>
 
         <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -531,32 +539,32 @@ _________________________________________________________ -->
 	        <div class="photostream">
           	<div>
 	          	<a href="#">
-  	          	<img src="file:///D|/Web Development/Sites/img/detailsquare.jpg" class="img-responsive" alt="Expat photo">
+  	          	<img src="../img/detailsquare.jpg" class="img-responsive" alt="Expat photo">
             	</a>
     	    	</div>
           	<div>
 	          	<a href="#">
-  	          	<img src="file:///D|/Web Development/Sites/img/detailsquare2.jpg" class="img-responsive" alt="Expat photo">
+  	          	<img src="../img/detailsquare2.jpg" class="img-responsive" alt="Expat photo">
             	</a>
     	    	</div>
           	<div>
 	          	<a href="#">
-  	          	<img src="file:///D|/Web Development/Sites/img/detailsquare3.jpg" class="img-responsive" alt="Expat photo">
+  	          	<img src="../img/detailsquare3.jpg" class="img-responsive" alt="Expat photo">
             	</a>
     	    	</div>
           	<div>
 	          	<a href="#">
-  	          	<img src="file:///D|/Web Development/Sites/img/detailsquare4.jpg" class="img-responsive" alt="Expat photo">
+  	          	<img src="../img/detailsquare4.jpg" class="img-responsive" alt="Expat photo">
             	</a>
     	    	</div>
           	<div>
 	          	<a href="#">
-  	          	<img src="file:///D|/Web Development/Sites/img/detailsquare5.jpg" class="img-responsive" alt="Expat photo">
+  	          	<img src="../img/detailsquare5.jpg" class="img-responsive" alt="Expat photo">
             	</a>
     	    	</div>
           	<div>
 	          	<a href="#">
-  	          	<img src="file:///D|/Web Development/Sites/img/detailsquare6.jpg" class="img-responsive" alt="Expat photo">
+  	          	<img src="../img/detailsquare6.jpg" class="img-responsive" alt="Expat photo">
             	</a>
     	    	</div>
 					</div>
@@ -598,16 +606,19 @@ _________________________________________________________ -->
   </script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
-  <script src="file:///D|/Web Development/Sites/js/jquery.cookie.js"></script>
-  <script src="file:///D|/Web Development/Sites/js/waypoints.min.js"></script>
-  <script src="file:///D|/Web Development/Sites/js/jquery.counterup.min.js"></script>
-  <script src="file:///D|/Web Development/Sites/js/jquery.parallax-1.1.3.js"></script>
-  <script src="file:///D|/Web Development/Sites/js/front.js"></script>
-
+  <script src="../js/jquery.cookie.js"></script>
+  <script src="../js/waypoints.min.js"></script>
+  <script src="../js/jquery.counterup.min.js"></script>
+  <script src="../js/jquery.parallax-1.1.3.js"></script>
+  <script src="../js/front.js"></script>
 
   <!-- owl carousel -->
 
-  <script src="file:///D|/Web Development/Sites/js/owl.carousel.min.js"></script>
+  <script src="../js/owl.carousel.min.js"></script>
+
+  <!-- InstanceBeginEditable name="jScript" -->
+
+  <!-- InstanceEndEditable -->
 
 </body>
 
