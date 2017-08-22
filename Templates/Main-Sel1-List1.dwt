@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"><!-- InstanceBegin template="/Templates/Main-Sel1.dwt" codeOutsideHTMLIsLocked="false" -->
 
 <head>
 	<meta charset="utf-8">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- TemplateBeginEditable name="doctitle" -->
-  <title>Expat Life: Cancun</title>
-  <!-- TemplateEndEditable -->
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>##########</title>
+  <!-- InstanceEndEditable -->
   <meta name="keywords" content="">
 
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
@@ -46,8 +46,11 @@
 
   <link href="../css/owl.carousel.css" rel="stylesheet">
   <link href="../css/owl.theme.css" rel="stylesheet">
-  <!-- TemplateBeginEditable name="head" -->
-  <!-- TemplateEndEditable -->
+  
+  <!-- InstanceBeginEditable name="head" -->
+
+  <!-- InstanceEndEditable -->
+  
   <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
@@ -303,324 +306,115 @@ _________________________________________________________ -->
       </div>
    		<!-- *** NAVBAR END *** -->
     </header>
-  <!-- TemplateBeginEditable name="contentA" -->
-    <!-- *** LOGIN MODAL ***
-_________________________________________________________ -->
-
-    <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="Login" aria-hidden="true">
-    	<div class="modal-dialog modal-sm">
-	    	<div class="modal-content">
-  	    	<div class="modal-header">
-    	    	<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-      	    <h4 class="modal-title" id="Login">Expat login</h4>
-          </div>
-        	<div class="modal-body">
-          	<form action="../customer-orders.html" method="post">
-          		<div class="form-group">
-            		<input type="text" class="form-control" id="email_modal" placeholder="email">
-              </div>
-              <div class="form-group">
-              	<input type="password" class="form-control" id="password_modal" placeholder="password">
-              </div>
-              <p class="text-center">
-              	<button class="btn btn-template-main"><i class="fa fa-sign-in"></i> Log in</button>
-              </p>
-            </form>
-
-            <p class="text-center text-muted">Not registered yet?</p>
-            <p class="text-center text-muted"><a href="../customer-register.html"><strong>Register now</strong></a>! It is easy and done in 1&nbsp;minute and gives you access to special discounts and much more!</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- *** LOGIN MODAL END *** -->
-
-    <section>
-    	<!-- *** HOMEPAGE CAROUSEL ***
-_________________________________________________________ -->
-
-    	<div class="home-carousel">
-	    	<div class="dark-mask"></div>
-        <div class="container">
-          <div class="homepage owl-carousel">
-            <div class="item">
-              <div class="row">
-                <a href="#" target="_blank">
-                  <div class="col-sm-7 right">
-                    <h1>Immigrating to Mexico</h1>
-                    <p>From choosing a visa to finding work
-                    <br />Find out everything you need to know about following your dreams to Cancun</p>
-                  </div>
-                  <div class="col-sm-5">
-                    <img class="img-responsive" src="../img/large_icon-immigrate.png" alt="Immagrate To Mexico" style="padding-top:70px">
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="item">
-              <div class="row">
-                <a href="#">                        
-                  <div class="col-sm-5 text-center">
-                    <img class="img-responsive" src="../img/large_icon-doctor.png" alt="Find A Doctor" style="float:right">
-                  </div>
-                  <div class="col-sm-7">
-                    <h2>Find a doctor just right for you</h2>
-                    <ul class="list-style-none">
-                      <li>Check languages</li>
-                      <li>Check addresses</li>
-                      <li>Check reviews</li>
-                    </ul>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="item">
-              <div class="row">
-                <a href="#" target="_blank">
-                  <div class="col-sm-7 right">
-                    <h1>Expand your social circle</h1>
-                    <p>Meetup with fellow expats who have <br />been there and done that</p>
-                  </div>
-                  <div class="col-sm-5">
-                    <img class="img-responsive" src="../img/large_icon-drinks.png" alt="Meetup with fellow expats" style="padding-top:70px">
-                  </div>
-                </a>
-              </div>
-            </div>
-          </div>
-          <!-- /.project owl-slider -->
-        </div>
-      </div>
-
-    	<!-- *** HOMEPAGE CAROUSEL END *** -->
-    </section>
+  <!-- InstanceBeginEditable name="contentA" -->
     
     <div id="heading-breadcrumbs">
     	<div class="container">
       	<div class="row">
         	<div class="col-md-7">
-          	<h1>Welcome</h1>
+          	<h1>##########</h1>
+          </div>
+          <div class="col-md-5">
+          	<ul class="breadcrumb">
+   			      <li><a href="index.html">Home</a></li>
+   			      <li><a href="##########">##########</a></li>
+              <li>##########</li>
+            </ul>
           </div>
         </div>
       </div>
+    </div>
 
-			<section class="bar background-white">
-      	<div class="container">
-        	<div class="col-md-12">
-						<p>Welcome and thank you for visiting Expat Life Cancun. This website is still very much under construction but I chose to make it live in the hopes that visitors, like yourself, will be able to some offer input on what the site is still missing.</p>
-            <p>The idea behind Expat Life Cancun  is for it to be a resource of information for potential expats who might be considering making the move to Cancun. Furthermore, and perhaps more importantly, it’s a pool of shared experiences for those of us who are already here trying to survive the day-to-day life in this 3rd world paradise. As a civilian who moved here from another 3rd world country and lived on a spousal visa for two years before getting my permanent residency card, I appreciate that my own experiences will be very different to the average expat (if there is such a thing). As such, I would be very grateful if any of you would be willing to share your own story with me which I might in include on website. Please don’t just limit it to your visa application either.</p>
-            <p>If you have any tips for finding a new school for expat children, write me an email.<br /> 
-							If you own a business here in Quintana Roo, write me an email.<br />
-							If you visited a doctor who turned out to be a quack, write me an email.<br />
-							If you know about a store which offers discounts for locals… well, you know what to do...</p>
-                      
-            <p>And now for the boring bit:</p>
-            <p>The information contained in this website is for general information purposes only. The information is provided by Expat Life Cancun and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.</p>
-            <p>In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data, or profits, arising out of, or in connection with, the use of this website.</p>
-            <p>Through this website you are able to link to other websites which are not under the control of Expat Life Cancun. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. Furthermore, Expat Life Cancun does not necessarily endorse the views expressed by any of it contributors.</p>
-            <p>Every effort is made to keep the website up and running smoothly. However, Expat Life Cancun takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control. We also reserve the right to remove the site without warning.</p>
+    <div id="content">
+	    <div class="container">
+  	    <div class="row">
+        <!-- *** LEFT COLUMN ***
+_________________________________________________________ -->
+	
+          <div class="col-md-9 clearfix">
+  	  
+           	<section>
+    	        <p class="lead">########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ##########</p>
+              <div class="panel-group" id="accordion">
+      	        <div class="panel panel-primary">
+         		      <div class="panel-heading">
+            	      <h4 class="panel-title"><a href="########## ">########## </a></h4>
+	                </div>
+                </div>
+                <br />                
+                <!-- /.panel -->
+      	        <div class="panel panel-primary">
+         		      <div class="panel-heading">
+            	      <h4 class="panel-title"><a href="########## ">########## </a></h4>
+	                </div>
+                </div>
+                <br />                
+                <!-- /.panel -->
+
+              </div>
+              <!-- /.panel-group -->
+
+            </section>
+
           </div>
-        </div>
-			</section>
+          <!-- /.col-md-9 -->
 
-      <!-- /.bar -->
+          <!-- *** LEFT COLUMN END *** -->
 
-      <section class="bar background-image-fixed-3 no-mb color-white text-center">
-	     	<div class="dark-mask"></div>
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <img src="../img/cthulhulogo.png">
-              <h3 class="text-uppercase">Same Planet, Different World</h3>
-              <p class="lead">Come join us and explore the depths of our beautiful Caribbean Ocean.</p>
-              <p class="text-center">
-                <a href="http://cthulhudivers.com/" class="btn btn-template-transparent-black btn-lg" target="_blank">Dive In Today</a>
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="bar background-white no-mb">
-      	<div class="container">
-
-         	<div class="col-md-12">
-         		<div class="heading text-center">
-             	<h2>UPCOMING EVENTS</h2>
-            </div>
-            <p class="lead">Obviously embracing the local culture goes a long way to finding true happiness here in Mexico. However, every now and then, it’s a good idea to catch up with other expats if only to share experiences and maybe a small taste of home. Check out some of our upcoming events:</p>
-
-            <!-- *** UPCOMING EVENTS ***
+          <!-- *** RIGHT COLUMN ***
 _________________________________________________________ -->
 
-						<div class="row">
-             	<div class="col-md-3 col-sm-6">
-               	<div class="box-image-text blog">
-                 	<div class="top">
-                   	<div class="image">
-                     	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
-                    </div>
-                    <div class="bg"></div>
-                    <div class="text">
-                    	<p class="buttons">
-                       	<a href="#" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="content">
-                   	<h4><a href="#">This Event</a></h4>
-	                  <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
-                    <p class="intro">Be there or be cuadrado.</p>
-	                  <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
-                  </div>
-                </div>
-              </div>
+          <div class="col-sm-3">
 
-              <!-- /.box-image-text -->
-
-             	<div class="col-md-3 col-sm-6">
-               	<div class="box-image-text blog">
-                 	<div class="top">
-                   	<div class="image">
-                    	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
-                    </div>
-                    <div class="bg"></div>
-                    <div class="text">
-                     	<p class="buttons">
-                       	<a href="#" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="content">
-                   	<h4><a href="#">That Event</a></h4>
-                    <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
-                    <p class="intro">Be there or be cuadrado.</p>
-	                  <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
-                  </div>
-                </div>
-              </div>
-
-              <!-- /.box-image-text -->
-                
-             	<div class="col-md-3 col-sm-6">
-              	<div class="box-image-text blog">
-                 	<div class="top">
-                   	<div class="image">
-                     	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
-                    </div>
-                    <div class="bg"></div>
-                    <div class="text">
-                    	<p class="buttons">
-                      	<a href="#" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="content">
-                   	<h4><a href="#">The Event</a></h4>
-                    <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
-                    <p class="intro">Be there or be cuadrado.</p>
-	                  <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
-                  </div>
-                </div>
-              </div>
-
-              <!-- /.box-image-text -->
-                
-             	<div class="col-md-3 col-sm-6">
-               	<div class="box-image-text blog">
-                 	<div class="top">
-                   	<div class="image">
-                     	<img src="../img/portfolio-1.jpg" alt="" class="img-responsive">
-                    </div>
-                    <div class="bg"></div>
-                    <div class="text">
-                     	<p class="buttons">
-                       	<a href="#" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div class="content">
-  	             	<h4><a href="#">El Evento</a></h4>
-    	            <p class="author-category"><strong>Time:</strong> Sometime. <strong>Place:</strong> <a href="#">Somewhere</a></p>
-                  <p class="intro">Be there or be cuadrado.</p>
-	                <p class="read-more"><a href="#" class="btn btn-template-main">Continue reading</a></p>
-                </div>
-              </div>
+            <div class="banner">
+            	<a href="shop-category.html">
+ 		            <img src="../img/banner.jpg" alt="##########" class="img-responsive">
+              </a>
             </div>
-
-            <!-- /.box-image-text -->                                
-
-          </div>
-        </div>
-
-	      <!-- /.row -->
-
-	 	    <!-- *** UPCOMING EVENTS END *** -->
-			</section>
-    </div>
-        
-    <!-- /.container -->
     
-    <!-- /.bar -->
+            <!-- /.banner -->
+          </div>
+    
+          <!-- /.col-md-3 -->
 
-    <section class="bar background-gray no-mb">
+          <!-- *** RIGHT COLUMN END *** -->
+        </div>
+ 
+        <!-- /.row -->
+
+     	</div>
+      <!-- /.container -->
+    </div>
+    <!-- /#content -->
+
+    <section class="bar background-image-fixed-1 no-mb color-white text-center">
+      <div class="dark-mask"></div>
       <div class="container">
-      	<div class="row">
-         	<div class="col-md-12">
-           	<div class="heading text-center">
-             	<h2>Our sponsors</h2>
-            </div>
-
-            <ul class="owl-carousel customers">
-	            <li class="item">
-              	<a href="http://www.charlamex.com/" target="_blank">
-                 	<img src="../img/sponser_charlamex.png" alt="Charlamex" class="img-responsive">
-                </a>                 
-              </li>
-            	<li class="item">
-               	<a href="http://cthulhudivers.com/" onMouseOut="MM_swapImgRestore()" 
-                onMouseOver="MM_swapImage('Image28','','../img/sponser_cthulhudivers3.png',1)" target="_blank">
-                	<img src="../img/sponser_cthulhudivers4.png" alt="Cthulhu Divers" width="89" height="105" id="Image28">
-                </a>
-              </li>
-              <li class="item">
-               	<a href="../contact.html">
-	              	<img src="../img/sponser_limelight.png" alt="LimeLight" class="img-responsive">
-                </a>
-              </li>
-              <li class="item">
-               	<img src="../img/sponser_application.png" alt="Become A Sponser" class="img-responsive">
-              </li>
-              <li class="item">
-               	<img src="../img/sponser_application.png" alt="Become A Sponser" class="img-responsive">
-              </li>
-              <li class="item">
-               	<img src="../img/sponser_application.png" alt="Become A Sponser" class="img-responsive">
-              </li>
-            </ul>
-              
-            <!-- /.owl-carousel -->
+        <div class="row">
+          <div class="col-md-12">
+            <img src="../img/apple-touch-icon-76x76.png" alt="Expat Life Cancun Logo">
+            <h3 class="text-uppercase">Your business advertisement could go here.</h3>
+            <p class="lead">Advertise your company on Cancun's #1 expat resource.</p>
+            <p class="text-center">
+              <a href="../contact.html" class="btn btn-template-transparent-black btn-lg" target="_blank">Contact us</a>
+            </p>
           </div>
         </div>
-	    </div>
+      </div>
     </section>
-  <!-- TemplateEndEditable -->
+    
+  </div>
+        
+  <!-- /.container -->
+    
+  <!-- /.bar -->
+
+  <!-- InstanceEndEditable -->
 
     <!-- *** GET IT ***
 _________________________________________________________ -->
-  <!-- TemplateBeginEditable name="contentB" -->
-    <div id="get-it" class="limelight-ad">
-    	<div class="container">
-  			<div class="limelight-ad">
-        	<img src="../img/Limelight.png" alt="LimeLight Web Design" style="float:left" />
-          <h5>Are you looking to create a professional website for your new business in Mexico?</h5>
-        </div>
-        <a href="#" class="btn btn-template-transparent-primary">Get in touch with us now</a>
-      </div>
-    </div>
-  <!-- TemplateEndEditable -->
+  <!-- InstanceBeginEditable name="contentB" -->
+  <!-- InstanceEndEditable -->
     <!-- *** GET IT END *** -->
   </div>
 
@@ -794,4 +588,4 @@ _________________________________________________________ -->
 
 </body>
 
-</html>
+<!-- InstanceEnd --></html>

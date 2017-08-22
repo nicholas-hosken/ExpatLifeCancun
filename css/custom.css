@@ -2,6 +2,18 @@
 	background-color: #da4d4d;
 }
 
+.bar.background-image-fixed-1 {
+  background:url(../img/wallpaper-curl.jpg) center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bar.background-image-fixed-2 {
+  background: url('../img/fixed-background-2.jpg') center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .bar.background-image-fixed-3 {
   background: url('../img/fixed-background-3.jpg') center top no-repeat;
   background-attachment: fixed;
