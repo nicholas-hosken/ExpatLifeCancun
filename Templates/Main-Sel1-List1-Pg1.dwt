@@ -240,7 +240,7 @@ _________________________________________________________ -->
                             </ul>
                             <h5>Everything Medical</h5>
                             <ul>
-                              <li><a href="../em-doctors.html">Doctors</a></li>
+                              <li><a href="../doctors.html">Doctors</a></li>
                             </ul>
                           </div>
                           <div class="col-sm-3">
@@ -314,7 +314,7 @@ _________________________________________________________ -->
     	<div class="container">
       	<div class="row">
         	<div class="col-md-7">
-          	<h1>##########</h1>
+          	<h1>About</h1>
           </div>
           <div class="col-md-5">
           	<ul class="breadcrumb">
@@ -340,11 +340,11 @@ _________________________________________________________ -->
           	<div class="col-md-8">
 
 	            <div class="heading">
-   		          <h2>##########</h2>
+   		          <h2>About</h2>
               </div>
 
-              <p class="lead">########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## </p>
-              <p>If this is your business listing and you would like to add or amend its description, please feel free to get in touch with us through either our <a href=”contact.html”>contact page</a> or via email.</p>
+              <p>########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## ########## </p>
+              <p class="edit-ur-listing"><em>If this is your business listing and you would like to add or amend its description, please feel free to get in touch with us through either our <a href=”contact.html”>contact page</a> or via email.</em></p>
 
             </div>
 
@@ -357,10 +357,10 @@ _________________________________________________________ -->
                 <br>
               </p>
 
-              <h3 class="text-uppercase">Phone & Email</h3>
+              <h3 class="text-uppercase">Website, Phone & Email</h3>
               <p class="text-muted"></p>
               <p>
-	             	<strong>##########
+	             	<strong><a href="##########">##########</a>
                   <br>##########
                   <br>
                   <br>
@@ -689,7 +689,7 @@ _________________________________________________________ -->
   <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
 
   <script src="../js/gmaps.js"></script>
-  <script src="../js/gmaps.init.js"></script>
+  <script src="../js/gmaps_##########.js"></script>
 
   <!-- gmaps end -->
 

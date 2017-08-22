@@ -235,7 +235,7 @@ _________________________________________________________ -->
                             </ul>
                             <h5>Everything Medical</h5>
                             <ul>
-                              <li><a href="../em-doctors.html">Doctors</a></li>
+                              <li><a href="../sel-doctors.html">Doctors</a></li>
                             </ul>
                           </div>
                           <div class="col-sm-3">
@@ -777,7 +777,7 @@ _________________________________________________________ -->
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   <script>
-		window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js">')
+		window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js">
   </script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 

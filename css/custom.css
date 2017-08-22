@@ -35,3 +35,12 @@
 	background-color: #fff;
 	color: #6aae7a;
 }
+
+.panel-primary > .panel-heading:hover {
+	background-color:#da4d4d;
+  border-color: #da4d4d;
+}
+
+.edit-ur-listing {
+	font-size:small;
+}
