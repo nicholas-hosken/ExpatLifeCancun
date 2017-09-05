@@ -7,7 +7,7 @@
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- TemplateBeginEditable name="doctitle" -->
-  <title>Expat Life: Cancun</title>
+  <title>ELC: ##########</title>
   <!-- TemplateEndEditable -->
   <meta name="keywords" content="">
 
@@ -83,30 +83,6 @@ _________________________________________________________ -->
         	<div class="row">
           	<div class="col-xs-5 contact">
             	<p class="hidden-sm hidden-xs">Have an experiance you would like to share? Found something which needs updating? Send us an email at #######@#####</p>
-							<!--
-              <p class="hidden-md hidden-lg">
-              	<a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>  
-              	<a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-              </p>
-            </div>
-            <div class="col-xs-7">
-              <div class="social">
-                <a href="#" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>
-                <a href="#" class="external gplus" data-animate-hover="pulse"><i class="fa fa-google-plus"></i></a>
-                <a href="#" class="external twitter" data-animate-hover="pulse"><i class="fa fa-twitter"></i></a>
-                <a href="#" class="email" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-              </div>
-              <div class="login">
-                <a href="#" data-toggle="modal" data-target="#login-modal">
-                  <i class="fa fa-sign-in"></i> 
-                  <span class="hidden-xs text-uppercase">Sign in</span>
-                </a>
-                <a href="../customer-register.html">
-                  <i class="fa fa-user"></i> 
-                  <span class="hidden-xs text-uppercase">Sign up</span>
-                </a>
-              </div>
-							-->              
             </div>
           </div>
         </div>
@@ -153,10 +129,10 @@ _________________________________________________________ -->
                             <h5>Finding Work</h5>
                             <ul>
                               <li><a href="#">Obtaining the right to work legally</a></li>
-                              <li><a href="#">Opening your own business</a></li>
                               <li><a href="#">Bilingual Spanish & English Speakers</a></li>
                               <li><a href="#">Bilingual Spanish & Other Speakers</a></li>
                               <li><a href="#">English Speakers</a></li>
+                              <li><a href="#">Opening your own business</a></li>
                             </ul>
                           </div>
                         </div>
@@ -176,21 +152,23 @@ _________________________________________________________ -->
                           <div class="col-sm-3">
                             <h5>Kids</h5>
                             <ul>
-                              <li><a href="#">Nannies</a></li>
-                              <li><a href="#">Home Schooling</a></li>
-                              <li><a href="#">Kindergarten</a></li>
-                              <li><a href="#">Elementary</a></li>
-                              <li><a href="#">Junior High</a></li>
-                              <li><a href="#">Senior High</a></li>
+                              <li>Nannies</li>
+                              <li>Home Schooling</li>
+                              <li>Kindergarten</li>
+                              <li>Elementary</li>
+                              <li>Junior High</li>
+                              <li>Senior High</li>
                             </ul>
                           </div>
                           <div class="col-sm-3">
                             <h5>Help Around the House</h5>
                             <ul>
-                              <li><a href="#">Cleaners</a></li>
-                              <li><a href="#">Electricians</a></li>
-                              <li><a href="#">Painters</a></li>
-                              <li><a href="#">Plumbers</a></li>                              
+                              <li><a href="../sel_tradesmen.html">Tradesmen</a></li>
+                              <li>Builders</li>
+                              <li>Cleaners</li>
+                              <li>Electricians</li>
+                              <li>Painters</li>
+                              <li>Plumbers</li>                              
                             </ul>
                           </div>
                         </div>
@@ -220,8 +198,9 @@ _________________________________________________________ -->
                             </ul>
                             <h5>Pets</h5>
                             <ul>
-                              <li><a href="#">Adopting</a></li>
-                              <li><a href="#">Vets</a></li>
+                              <li><a href="../sel_pet-services.html">Pets</a></li>
+                              <li>Adopting & Charities</li>
+                              <li>Vets</li>
                             </ul>
                           </div>
                           <div class="col-sm-3">
@@ -233,9 +212,9 @@ _________________________________________________________ -->
                             <ul>
                               <li><a href="#">Lorem Ipsum</a></li>
                             </ul>
-                            <h5>Everything Medical</h5>
+                            <h5>Medical Services</h5>
                             <ul>
-                              <li><a href="../sel-doctors.html">Doctors</a></li>
+                              <li><a href="../sel_doctors.html">Doctors</a></li>
                             </ul>
                           </div>
                           <div class="col-sm-3">
@@ -255,8 +234,8 @@ _________________________________________________________ -->
 	                            <li><a href="#">Exterminators</a></li>
                             </ul>
                             <ul>
-	                            <li><a href="#">Vets</a></li>
-                            </ul>
+	                            <li><a href="#">Charities</a></li>
+                            </ul>                            
                             <ul>
 	                            <li><a href="#">Electricians</a></li>
                             </ul>                            
@@ -268,6 +247,12 @@ _________________________________________________________ -->
                             </ul>
                             <ul>
 	                            <li><a href="#">Handy Men</a></li>
+                            </ul>
+                            <ul>
+	                            <li><a href="#">Recycling</a></li>
+                            </ul>
+                            <ul>
+	                            <li><a href="#">Online Learning</a></li>
                             </ul>
                           </div>
                         </div>

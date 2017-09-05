@@ -37,10 +37,26 @@
 }
 
 .panel-primary > .panel-heading:hover {
-	background-color:#da4d4d;
+	background-color: #da4d4d;
   border-color: #da4d4d;
 }
 
 .edit-ur-listing {
-	font-size:small;
+	font-size: small;
+}
+
+.all-right {
+	float: right;
+}
+
+.panel-primary:hover {
+  border-color: #da4d4d;
+}
+
+.no-deco {
+	text-decoration: none;
+}
+
+.edit {
+	color: #F00;
 }
